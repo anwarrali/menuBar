@@ -1,8 +1,8 @@
-# Landing Page Project
+  # Menu Page 
 
 ## Overview
 
-This project represents a dynamic and interactive menu page for a restaurant menu. It is designed to display the restaurant's offerings, including starters, mains, desserts, and drinks, with descriptions and prices. The page is styled using CSS, and the content dynamically updates based on the menu section selected by the user.
+represents a dynamic and interactive menu page for a restaurant menu. It is designed to display the restaurant's offerings, including starters, mains, desserts, and drinks, with descriptions and prices. The page is styled using CSS, and the content dynamically updates based on the menu section selected by the user.
 
 ## Features
 
