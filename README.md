@@ -6,7 +6,7 @@ represents a dynamic and interactive menu page for a restaurant menu. It is desi
 
 ## Features
 
-- **Menu Display**: The landing page features a responsive and interactive layout showcasing the four categories of the menu: Starter, Mains, Desserts, and Drinks.
+- **Menu Display**: The menu page features a responsive and interactive layout showcasing the four categories of the menu: Starter, Mains, Desserts, and Drinks.
 - **Dynamic Content**: The menu items update dynamically when the user clicks on each category (Starter, Mains, Desserts, Drinks), displaying relevant items with descriptions and prices.
 - **Smooth Animation**: Animations are used for the header and menu interaction to create a visually appealing user experience.
 - **Custom Scrollbar**: A custom-styled scrollbar provides a smooth user experience while scrolling through the menu items.
